@@ -5,6 +5,8 @@ https://ethernaut.openzeppelin.com/
 
 [openzeppelin docs](https://docs.openzeppelin.com/contracts/3.x/)
 
+[openzeppelin developing smart contracts](https://docs.openzeppelin.com/learn/developing-smart-contracts)
+
 # setup
 
 ```bash
