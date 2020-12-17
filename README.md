@@ -9,6 +9,8 @@ https://ethernaut.openzeppelin.com/
 
 [using javascript to interact with contracts](https://docs.openzeppelin.com/learn/deploying-and-interacting#interacting-programmatically)
 
+[web3 docs](https://web3js.readthedocs.io/en/v1.2.9/)
+
 # setup
 
 ```bash
