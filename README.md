@@ -7,7 +7,7 @@ https://ethernaut.openzeppelin.com/
 
 [openzeppelin developing smart contracts](https://docs.openzeppelin.com/learn/developing-smart-contracts)
 
-[using javsscript to interact with contracts](https://docs.openzeppelin.com/learn/deploying-and-interacting#interacting-programmatically)
+[using javascript to interact with contracts](https://docs.openzeppelin.com/learn/deploying-and-interacting#interacting-programmatically)
 
 # setup
 
@@ -22,14 +22,20 @@ npm install @openzeppelin/contracts
 npx ganache-cli --deterministic
 ```
 
-# use truffle cli
-
-```sh
-npx truffle console --network development
-```
-
 ## migrate blockchain
 
 ```sh
 npx truffle migrate --network development
+```
+
+## run  some javascript
+
+```sh
+npx truffle exec --network development ./scripts/instance.js
+```
+
+# use truffle cli
+
+```sh
+npx truffle console --network development
 ```
